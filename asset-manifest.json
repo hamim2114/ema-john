@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hamim2114/ema-john.git/static/css/main.81a30021.css",
+    "main.js": "/hamim2114/ema-john.git/static/js/main.8a529c69.js",
+    "static/js/787.28cb0dcd.chunk.js": "/hamim2114/ema-john.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.png": "/hamim2114/ema-john.git/static/media/logo.0dd9a5104bbc1da3e6ae.png",
+    "static/media/logo192.png": "/hamim2114/ema-john.git/static/media/logo192.6ef12178ffdd6ec23b8a.png",
+    "index.html": "/hamim2114/ema-john.git/index.html",
+    "main.81a30021.css.map": "/hamim2114/ema-john.git/static/css/main.81a30021.css.map",
+    "main.8a529c69.js.map": "/hamim2114/ema-john.git/static/js/main.8a529c69.js.map",
+    "787.28cb0dcd.chunk.js.map": "/hamim2114/ema-john.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a30021.css",
+    "static/js/main.8a529c69.js"
+  ]
+}
